@@ -1,0 +1,84 @@
+[
+    { 
+        "title": "Phase One", 
+        "subHeading": "LAUNCH", 
+        "children": [
+            { 
+                "key": "Token Launch on Uniswap",
+                "value": 2
+            },
+            { 
+                "key": "Website, Whitepaper, Socials",
+                "value": 1
+            },
+            { 
+                "key": "Listing on CoinGecko & CoinMarketCap",
+                "value": 0 
+            },
+            { 
+                "key": "Utility Development",
+                "value": 0 
+            }
+        ]
+    },
+    { 
+        "title": "Phase Two", 
+        "subHeading": "DEVELOPMENT", 
+        "children": [
+            { 
+                "key": "Onboarding brand ambassadors",
+                "value": 0 
+            },
+            { 
+                "key": "NFT collection launch",
+                "value": 0 
+            },
+            { 
+                "key": "Content marketing campaigns",
+                "value": 0 
+            },
+            { 
+                "key": "Distribution of 1st round of profits",
+                "value": 0 
+            },
+            { 
+                "key": "Analytics dashboard upgrade & launch",
+                "value": 0 
+            },
+            { 
+                "key": "First marketing campaign",
+                "value": 0 
+            },
+            { 
+                "key": "Governance Nexus launch",
+                "value": 0 
+            },
+            { 
+                "key": "1st Nexus managers evaluation",
+                "value": 0 
+            }
+        ]
+    },
+    { 
+        "title": "Phase Three", 
+        "subHeading": "EXPAND", 
+        "children": [
+            { 
+                "key": "Token Launch on Uniswap",
+                "value": 0 
+            },
+            { 
+                "key": "Website, Whitepaper, Socials",
+                "value": 0
+            },
+            { 
+                "key": "Listing on CoinGecko & CoinMarketCap",
+                "value": 0 
+            },
+            { 
+                "key": "Utility Development",
+                "value": 0 
+            }
+        ]
+    }
+]

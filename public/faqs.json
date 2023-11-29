@@ -1,0 +1,17 @@
+[
+    { 
+        "id": "faq-1", 
+        "title": "What is $ENXS?", 
+        "body": "The EtherNexus token ($ENXS) is the lifeblood of our ecosystem, and it utilizes the Ethereum blockchain. We've chosen Ethereum's network due to its unparalleled stability, utility, and reach. The token, $ENXS, will help facilitate trades and transactions on the platform and be a key part of its staking system." 
+    },
+    { 
+        "id": "faq-2", 
+        "title": "What makes $ENXS different from other decentralized investment platforms?", 
+        "body": "EtherNexus offers a low-stress, almost hands-off way for beginners and all interested users to capitalize on the robust DeFi market, while still having all of the fun that should come along with the process." 
+    },
+    { 
+        "id": "faq-3", 
+        "title": "What is the idea behind $ENXS and how did it begin?", 
+        "body": "EtherNexus is a DeFi-centric discovery and management platform designed to bring order to the chaos of DeFi space. It's built around a DAO and aims to be a perfect tool to find and acquire investments that exhibit great potential." 
+    }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "IsoNavigation",
+  "about": "",
+  "symbol": "ISON",
+  "telegram": "",
+  "website": "",
+  "twitter": "",
+  "taxes": {
+    "taxFeeOnBuy": "5",
+    "taxFeeOnSell": "5"
+  },
+  "contractAddress": "0x000000000000000000000000000000000000",
+  "uniswap": "https://app.uniswap.org/#/swap?outputCurrency=0x000000000000000000000000000000000000",
+  "etherscan": "https://etherscan.io/token/0x000000000000000000000000000000000000",
+  "dextools": "https://www.dextools.io/app/en/ether/pair-explorer/0x000000000000000000000000000000000000",
+  "meta": {
+    "title": "IsoNavigation",
+    "description": "",
+    "icons": [
+      {
+        "rel": "icon",
+        "url": "/favicon/favicon.ico"
+      }
+    ]
+  }
+}

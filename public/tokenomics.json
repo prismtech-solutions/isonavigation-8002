@@ -1,0 +1,44 @@
+{
+    "title": "GET TO KNOW $ISO",
+    "body": "Utility, governance, and exposure are all rolled into one powerful token that makes you part of the evolving EtherNexus ecosystem. Get in on the action and help drive the bright future of DeFi projects and investments.",
+    "tokenData": [
+        {
+            "key": "Total supply",
+            "value": "100M"
+        },
+        {
+            "key": "Circulating Tokens",
+            "value": "100%"
+        },
+        {
+            "key": "Contract Address",
+            "value": "0x000...0000",
+            "isContractAddress": true
+        }
+    ],
+    "children": [{
+        "title": "TAXES",
+        "children": [
+            {
+                "key": "BUY",
+                "value": "5"
+            },
+            {
+                "key": "SELL",
+                "value": "5"
+            }
+        ]
+    },{
+        "title": "SECURITY",
+        "children": [
+            {
+                "key": "Liquidity locked",
+                "href":"/"
+            },
+            {
+                "key": "Ownership renounced",
+                "href":"/"
+            }
+        ]
+    }]
+}

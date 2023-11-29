@@ -1,0 +1,123 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth !important;
+}
+
+#landing{
+    position: relative;
+}
+
+#landing::after{
+    content: "";
+    mask-image: url('/graphics/overlay1-1200px.png');
+    background-image: linear-gradient(to right, theme('colors.s3'), transparent 80%);
+    background-repeat: no-repeat;
+    mask-size: 70%;
+    background-position: center;
+    inset: 0;
+    position: absolute;
+    z-index: -1;
+    opacity: 50%;
+}
+
+#about-wrapper{
+    position: relative;
+}
+
+#about-wrapper::after{
+    content: "";
+    mask-image: url('/graphics/overlay2-1200px.png');
+    background-image: radial-gradient(ellipse at top, theme('colors.s3'), transparent 70%);
+    background-repeat: no-repeat;
+    background-position: center;
+    mask-size: 70%;
+    inset: 0;
+    position: absolute;
+    z-index: -1;
+    opacity: 50%;
+}
+
+#tokenomics-wrapper {
+    position: relative;
+}
+
+#tokenomics-wrapper::after{
+    content: "";
+    mask-image: url('/graphics/overlay2-1200px.png');
+    background-image: radial-gradient(theme('colors.s3'), transparent 70%);
+    background-size: contain;
+    mask-size: 70%;
+    inset: 0;
+    position: absolute;
+    z-index: -1;
+    opacity: 50%;
+}
+
+#roadmap-wrapper {
+    position: relative;
+}
+
+#roadmap-wrapper::after{
+    content: "";
+    mask-image: url('/graphics/overlay1-1200px.png');
+    background-image: linear-gradient(to right, transparent 20%, theme('colors.s3'), transparent 80%);
+    background-repeat: no-repeat;
+    background-position: cover;
+    mask-position: center;
+    mask-size: 70%;
+    inset: 0;
+    position: absolute;
+    z-index: -1;
+    opacity: 50%;
+}
+
+#footer-wrapper {
+    position: relative;
+}
+
+#footer-wrapper::after{
+    content: "";
+    mask-image: url('/graphics/overlay1-1200px.png');
+    background-image: linear-gradient(to left, theme('colors.s3'), transparent 70%);
+    background-size: cover;
+    mask-size: 70%;
+    inset: 0;
+    position: absolute;
+    z-index: -1;
+    opacity: 50%;
+}
+
+#faqs-wrapper {
+    position: relative;
+}
+
+#faqs-wrapper::after{
+    mask-size: 70%;
+    content: "";
+    mask-image: url('/graphics/overlay2-1200px.png');
+    background-image: radial-gradient(ellipse at bottom, theme('colors.s3'), transparent 70%);
+    background-repeat: no-repeat;
+    background-position: center;
+    inset: 0;
+    position: absolute;
+    z-index: -1;
+    opacity: 50%;
+}
+
+#nav-menu-bg{
+    mask-size: 70%;
+    content: "";
+    mask-image: url('/graphics/overlay2-1200px.png');
+    background-image: radial-gradient(ellipse at top, theme('colors.s3'), transparent 70%);
+    background-repeat: no-repeat;
+    background-position: center;
+    inset: 0;
+    position: absolute;
+    z-index: 0;
+    pointer-events: none;
+    opacity: 50%;
+
+}
